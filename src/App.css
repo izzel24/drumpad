@@ -1,0 +1,8 @@
+.drum-pad{
+  box-shadow: 0 10px 0 rgb(31, 31, 31);
+}
+.drum-pad:active{
+  box-shadow: 0 5px 0 rgb(31, 31, 31);
+  transform:  translateY(5px);
+}
+
