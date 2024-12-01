@@ -7,7 +7,7 @@ This project was built as part of the FreeCodeCamp Certification program to demo
 - **Audio playback** for a seamless drum-playing experience
 
 ## Project Screenshot 📸
-<img src="https://raw.githubusercontent.com/izzel24/Drum-Machine/main/screenshot_project.png" alt="Drum Machine Screenshot" />
+<img src="https://raw.githubusercontent.com/izzel24/drumpad/refs/heads/main/screenshot_project.png" alt="Drum Machine Screenshot" />
 
 ## Live Demo 🚀
 Check out the live demo of the project here: [Drum Machine](https://izzel24.github.io/Drum-Machine/)
