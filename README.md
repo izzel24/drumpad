@@ -10,7 +10,7 @@ This project was built as part of the FreeCodeCamp Certification program to demo
 <img src="https://raw.githubusercontent.com/izzel24/drumpad/refs/heads/main/screenshot_project.png" alt="Drum Machine Screenshot" />
 
 ## Live Demo 🚀
-Check out the live demo of the project here: [Drum Machine](https://izzel24.github.io/Drum-Machine/)
+Check out the live demo of the project here: [Drum Machine](https://izzel24.github.io/drumpad/)
 
 ## How It Works 🔧
 1. **Interactive Keys**: Users can play drum sounds by clicking the buttons or pressing the corresponding keys (**Q, W, E, A, S, D, Z, X, C**).
